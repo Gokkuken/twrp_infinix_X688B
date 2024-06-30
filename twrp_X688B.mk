@@ -24,8 +24,8 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/infinix/X688B/device.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := X688B
+PRODUCT_DEVICE := Infinix-X688B
 PRODUCT_NAME := twrp_X688B
 PRODUCT_BRAND := Infinix
-PRODUCT_MODEL := Infinix Hot 11 Play
-PRODUCT_MANUFACTURER := Infinix
+PRODUCT_MODEL := Infinix X688B
+PRODUCT_MANUFACTURER := INFINIX MOBILITY LIMITED
